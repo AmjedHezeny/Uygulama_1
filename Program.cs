@@ -60,9 +60,6 @@ namespace Uygulama_1
 
 
 
-
-
-
             Console.ReadKey();
         }
     }
