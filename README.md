@@ -1,1 +1,6 @@
-# Uygulama_1
+# String ve Int Değişkenlerini Kullanma! 📝🔢
+
+
+
+
+
